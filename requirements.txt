@@ -1,4 +1,4 @@
-virtualenv==16.2.0
+virtualenv==20.26.6
 Fabric3==1.14.post1
 autopep8==1.4.3
 pycodestyle==2.4.0
